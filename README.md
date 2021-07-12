@@ -7,7 +7,7 @@
 # Introduction
 <br>
 This repository is a backup of the excercises done on the <a href="https://platzi.com/clases/scikitlearn-ml/">Scikiti-Learn course</a> in <a href="https://platzi.com/">Platzi</a>.<br>
-For this project I will be using a virutal environment as a good practice for development.<br>
+For this project I will be using a virtual environment as a good practice for development.<br>
 Please follow the instructions below for a proper setup where I'll include the libraries and the steps required.<br>
 Special thanks to Profesor <a href="https://www.linkedin.com/in/arielortiz/">Ariel Ortiz</a> for this amazing course.
 
